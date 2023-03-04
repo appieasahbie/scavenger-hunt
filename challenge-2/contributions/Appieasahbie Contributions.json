@@ -1,0 +1,14 @@
+{
+    "name": "! Appieasahbie | AKNodes !",
+    "social-contributions":{
+        "a": "Helping Terp Network discord community members.",
+        "b": "Twitter interaction. ex: https://twitter.com/ABDERRAZAKAKRI3",
+        "c": "Guid: https://github.com/appieasahbie/terp"
+    },
+    "infrastructure-contributions":{
+        "a": "testnet validator; https://explorer.nodestake.top/terp-testnet/staking/terpvaloper1fturgcw6kx99gmlmcjx80x4hhpp4dptpjw4g8f"
+        "b": "Dapp deployment: https://github.com/appieasahbie/terp",
+        "c": "Statesync: https://snapshot.terp.aknodes.net/snapshot-terp-03-4.tar.lz4",
+        "d": "Script for quick installation: https://github.com/appieasahbie/terp/blob/main/terp.sh",
+    }
+}
